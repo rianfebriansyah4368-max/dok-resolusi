@@ -1,6 +1,5 @@
 dok resolusi
   - menulis
   - mengisi
-  - membaca
-  - menghapus
   - merusak
+  - menoel
