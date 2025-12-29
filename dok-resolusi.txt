@@ -1,0 +1,4 @@
+dok resolusi
+  - menulis
+  - mengisi
+  - membaca
