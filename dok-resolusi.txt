@@ -3,3 +3,4 @@ dok resolusi
   - mengisi
   - merusak
   - menoel
+  - memotong
