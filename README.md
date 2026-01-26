@@ -2,3 +2,4 @@
 repository untuk menyimpan dok kedepannya
 
 triger jenkins
+poll scm
